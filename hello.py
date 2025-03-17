@@ -1,0 +1,5 @@
+print("Hello world!")
+print("Hello world!")
+print("Name: Edrian Ernest Ortega")
+print("Course: bsit")
+print("Interests in programming: more kaalaamn")
